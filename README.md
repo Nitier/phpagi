@@ -26,13 +26,13 @@ The preferred way to install this extension is through [composer](https://getcom
 Either run
 
 ```bash
-$ composer require welltime/phpagi ^2.20
+$ composer require nitier/phpagi
 ```
 
 or add
 
 ```
-"welltime/phpagi": "^2.20"
+"nitier/phpagi": "^2.21"
 ```
 
 to the ```require``` section of your `composer.json` file.
